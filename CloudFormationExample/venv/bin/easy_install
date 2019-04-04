@@ -1,4 +1,4 @@
-#!/Users/jocelynbelden/Desktop/EffectiveDevOpsAWSExercises/CloudFormationExample/venv/bin/python3
+#!/Users/jocelynbelden/Desktop/EffectiveDevOpsAWSExercises/EffectiveDevOpsTemplates/CloudFormationExample/venv/bin/python3
 
 # -*- coding: utf-8 -*-
 import re

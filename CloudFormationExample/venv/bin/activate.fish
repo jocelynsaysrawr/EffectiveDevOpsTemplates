@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/jocelynbelden/Desktop/EffectiveDevOpsAWSExercises/CloudFormationExample/venv"
+set -gx VIRTUAL_ENV "/Users/jocelynbelden/Desktop/EffectiveDevOpsAWSExercises/EffectiveDevOpsTemplates/CloudFormationExample/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
